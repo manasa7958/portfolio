@@ -27,6 +27,6 @@ export default function ContactSection() {
           </p>
         </div>
       </div>
-    </section>
+    </section> 
   )
 }

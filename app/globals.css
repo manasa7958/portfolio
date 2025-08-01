@@ -14,6 +14,10 @@ h1, h2, h3 {
   font-weight: 700;
 }
 
+.pastel-gradient {
+  background: linear-gradient(135deg, #dbeafe 0%, #bfdbfe 40%, #e9d5ff 100%);
+}
+
 .accent {
   color: #a78bfa; /* lavender accent */
 }
