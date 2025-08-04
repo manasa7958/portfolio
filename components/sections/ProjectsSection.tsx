@@ -4,21 +4,21 @@ export default function ProjectsSection() {
       title: "Multi-Stream Event Log Analyzer",
       description:
         "Boost.Regex-powered C++ parser that processes 2K+ log entries/file in <5ms latency across 10+ simulated servers. Automated diagnostics pipeline cut manual review time by 70%.",
-      link: "https://github.com/manasa7958/Projects/tree/main/Kronos%20Log%20Parsing",
+      link: "https://github.com/manasa7958/Projects/tree/main/Multi-Stream%20Event%20Log%20Analyzer",
       image: "/project-logs.png",
     },
     {
       title: "High-Performance Genetic Data Aligner",
       description:
         "Optimized Hirschberg’s algorithm to align 100K+ DNA sequences under strict memory limits, achieving 99% lower memory usage than baseline solutions.",
-      link: "https://github.com/manasa7958/Projects/tree/main/DNA%20Alignment",
+      link: "https://github.com/manasa7958/Projects/tree/main/Genetic%20DNA%20Aligner",
       image: "/project-dna.png",
     },
     {
       title: "Sokoban Puzzle Game",
       description:
         "Classic box-pushing puzzle game built in C++ with SFML graphics engine. Interactive and expandable to a web-playable version in future iterations.",
-      link: "https://github.com/manasa7958/Projects/tree/main/Sokoban%20Game",
+      link: "https://github.com/manasa7958/Projects/tree/main/Sokoban%20Puzzle%20Game",
       image: "/project-sokoban.png",
     },
     {
